@@ -75,7 +75,7 @@ def stats_card(u: dict, t: dict) -> str:
         ("Private contributions (year)", cc["restrictedContributionsCount"]),
         ("Public commits (year)", cc["totalCommitContributions"]),
         ("Pull requests", u["pullRequests"]["totalCount"]),
-                ("Stars earned", sum(r["stargazerCount"] for r in repos["nodes"])),
+        ("Stars earned", sum(r["stargazerCount"] for r in repos["nodes"])),
     ]
     body = ""
     for i, (label, value) in enumerate(rows):
