@@ -28,7 +28,6 @@
 - 🎓 Studying at the **College of Artificial Intelligence, Kafrelsheikh University**
 - 🧠 Into computer vision: detection, classification and real-time video
 - 📱 Shipping Flutter apps and React / Next.js front ends on NestJS and Laravel back ends
-- 🤝 Open source: fixed a WAN-mode install bug in [QuotaManager](https://github.com/UserJoo9/QuotaManager/pull/37)
 - 📫 Reach me at **amr@todiai.com**
 
 <br clear="right">
