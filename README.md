@@ -1,87 +1,147 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Amr Ahmed Elgharip — software engineer, founder and AI student" src="assets/banner-light.svg" width="100%">
-</picture>
-
 <p align="center">
-  <a href="https://linkedin.com/in/amr-elgharip2006"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
-  <a href="mailto:amr@todiai.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://todiai.com"><img alt="todiai.com" src="https://img.shields.io/badge/todiai.com-0b0b0f?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://manasatna.com"><img alt="manasatna.com" src="https://img.shields.io/badge/manasatna.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:06b6d4,100:8b5cf6&height=230&section=header&text=Amr%20Ahmed%20Elgharip&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Software%20Engineer%20%C2%B7%20Founder%20%C2%B7%20AI%20Student&descSize=18&descAlignY=56" width="100%" alt="Amr Ahmed Elgharip">
 </p>
 
-## About me
+<p align="center">
+  <a href="https://github.com/amr-elgharip2006">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=I+ship+software+that+runs+in+production;Founder+%40+Todi+Digital+Services;Building+Manasatna+%E2%80%94+%D9%85%D9%86%D8%B5%D8%AA%D9%86%D8%A7;AI+student+%40+Kafrelsheikh+University;Computer+vision+%C2%B7+Flutter+%C2%B7+NestJS" alt="Typing intro">
+  </a>
+</p>
 
-I'm **Amr**, a software engineer from Egypt 🇪🇬. I work across three tracks that feed into each other:
+<p align="center">
+  <a href="https://linkedin.com/in/amr-elgharip2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:amr@todiai.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://todiai.com"><img src="https://img.shields.io/badge/todiai.com-0b0b0f?style=for-the-badge&logo=googlechrome&logoColor=white" alt="todiai.com"></a>
+  <a href="https://manasatna.com"><img src="https://img.shields.io/badge/manasatna.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="manasatna.com"></a>
+  <img src="https://komarev.com/ghpvc/?username=amr-elgharip2006&style=for-the-badge&color=8b5cf6&label=Profile+views" alt="Profile views">
+</p>
 
-- **Products.** I take software from the first line to launch and keep it running: architecture, databases, APIs, interfaces, servers and deployment. I founded [Todi Digital Services](https://todiai.com) to do this for real customers.
-- **AI and computer vision.** I study at the **College of Artificial Intelligence, Kafrelsheikh University**, and build models that solve concrete problems: counting traffic, spotting plant disease, sorting waste.
-- **Mobile and web.** Flutter apps on the phone, React and Next.js on the web, NestJS and Laravel behind them.
+---
 
-## 🚀 Products I've built
+### 👋 About me
 
-### [Manasatna — منصتنا](https://manasatna.com)
+<img align="right" width="300" src="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/langs-dark.svg#gh-dark-mode-only" alt="Top languages">
+<img align="right" width="300" src="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/langs-light.svg#gh-light-mode-only" alt="Top languages">
 
-A multi-tenant SaaS that gives every teacher, tutoring center and academy in Egypt a complete online academy under their **own name, brand and domain**: protected video courses, self-grading exams, attendance, WhatsApp updates for parents, an AI assistant for each academy's students, and online payments, with every academy's data isolated from the others.
+- 🏢 Founder & lead engineer at **[Todi Digital Services](https://todiai.com)**: I take products from the first line to launch and keep them running
+- 🚀 Building **[Manasatna — منصتنا](https://manasatna.com)**, a white-label online academy for teachers in Egypt
+- 🎓 Studying at the **College of Artificial Intelligence, Kafrelsheikh University**
+- 🧠 Into computer vision: detection, classification and real-time video
+- 📱 Shipping Flutter apps and React / Next.js front ends on NestJS and Laravel back ends
+- 🤝 Open source: fixed a WAN-mode install bug in [QuotaManager](https://github.com/UserJoo9/QuotaManager/pull/37)
+- 📫 Reach me at **amr@todiai.com**
 
-<a href="https://manasatna.com"><img src="assets/manasatna-dashboard.png" alt="Manasatna teacher dashboard" width="100%"></a>
-<p align="center"><sub>The teacher dashboard, from the demo academy.</sub></p>
+<br clear="right">
 
-**Stack** NestJS · React · PostgreSQL · Prisma · Redis + BullMQ · Bunny Stream · XPay · DeepSeek · Nginx
+---
 
-### Todi App
+### 🚀 Featured work
 
-An AI assistant for commitments and productivity that understands Egyptian Arabic and Modern Standard Arabic, with an Arabic-first interface. **Stack** Flutter · React · NestJS
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://manasatna.com">Manasatna — منصتنا</a></h4>
+      Multi-tenant SaaS: every teacher or academy gets their own branded academy on their own domain, with protected video, auto-graded exams, attendance, WhatsApp updates for parents, an AI assistant and online payments.
+      <br><br><sub><b>NestJS · React · PostgreSQL · Prisma · Redis/BullMQ · DeepSeek</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌿 <a href="https://github.com/amr-elgharip2006/Plant-Disease-Classification">GreenLens</a></h4>
+      Identifies 38 plant diseases from a leaf photo with <b>99.39 % test accuracy</b>, and runs fully <a href="https://amr-elgharip2006.github.io/Plant-Disease-Classification/">in the browser</a>.
+      <br><br><sub><b>TensorFlow · EfficientNet · TF.js</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/amr-elgharip2006/vehicle-traffic-density-estimator">Traffic Density Estimator</a></h4>
+      Counts vehicles crossing a line in traffic video and estimates how congested the road is.
+      <br><br><sub><b>Python · YOLOv8 · OpenCV</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>♻️ <a href="https://github.com/amr-elgharip2006/Deep_Waste_Classifier">Deep Waste Classifier</a></h4>
+      Sorts waste photos into 7 recycling categories with transfer learning.
+      <br><br><sub><b>TensorFlow · Keras · EfficientNetB0</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐍 Python for AI Platform: IEEE Kafrelsheikh SB</h4>
+      Task submission platform for the student branch: students write and run Python in the browser and get checked on the spot.
+      <br><br><sub><b>Next.js · Prisma · Pyodide</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/amr-elgharip2006/Group1_DEPI">MTA Recovery Analytics</a></h4>
+      New York subway and bus ridership recovery, 2019–2024: a DEPI team project.
+      <br><br><sub><b>Power BI · DAX</b></sub>
+    </td>
+  </tr>
+</table>
 
-### Python for AI platform — IEEE Kafrelsheikh SB
+<details>
+<summary><b>📱 More projects: Flutter, PyTorch, OpenCV</b></summary>
+<br>
 
-A task submission platform for the student branch's *Python for AI* track. Students write and run Python in the browser, and the code is checked on the spot. **Stack** Next.js · Prisma · Pyodide
-
-## 🧠 AI & computer vision
-
-| Project | What it does | Built with |
-|---|---|---|
-| [**Plant-Disease-Classification**](https://github.com/amr-elgharip2006/Plant-Disease-Classification) | *GreenLens*: classifies 38 plant diseases from a leaf photo, **99.39 % test accuracy**, runs [in the browser](https://amr-elgharip2006.github.io/Plant-Disease-Classification/) | TensorFlow · EfficientNet |
-| [**vehicle-traffic-density-estimator**](https://github.com/amr-elgharip2006/vehicle-traffic-density-estimator) | Counts vehicles crossing a line in traffic video and estimates traffic density | Python · YOLOv8 · OpenCV |
-| [**Deep_Waste_Classifier**](https://github.com/amr-elgharip2006/Deep_Waste_Classifier) | Sorts waste photos into 7 categories with transfer learning | TensorFlow · Keras · EfficientNetB0 |
-| [**Group1_DEPI**](https://github.com/amr-elgharip2006/Group1_DEPI) | New York MTA ridership and recovery analytics, 2019–2024 (DEPI team project) | Power BI |
-| [**dl-pytorch-fundamentals-exercises**](https://github.com/amr-elgharip2006/dl-pytorch-fundamentals-exercises) | Solutions to all 10 PyTorch fundamentals exercises plus the challenge | PyTorch |
-| [**OpenCV series**](https://github.com/amr-elgharip2006/cv-section1-opencv-fundamentals) | Image basics, transforms, HSV masks and annotation, in three notebooks ([1](https://github.com/amr-elgharip2006/cv-section1-opencv-fundamentals) · [2](https://github.com/amr-elgharip2006/cv-section2-opencv-tasks) · [3](https://github.com/amr-elgharip2006/cv-section3-opencv)) | OpenCV · NumPy |
-
-## 📱 Mobile
-
-| Project | What it does | Built with |
-|---|---|---|
-| [**flutter-shopping-app**](https://github.com/amr-elgharip2006/flutter-shopping-app) | Shopping app with sign-up and routing, [live web demo](https://amr-elgharip2006.github.io/flutter-shopping-app/) | Flutter · go_router |
-| [**flutter-mini-product-catalog**](https://github.com/amr-elgharip2006/flutter-mini-product-catalog) | Product catalog: state lifecycle and navigation | Flutter · go_router |
-| [**flutter-movie-library**](https://github.com/amr-elgharip2006/flutter-movie-library) | Movie library with list and grid views and search | Flutter |
-
-## 🤝 Open source
-
-- [**QuotaManager**](https://github.com/UserJoo9/QuotaManager): found and fixed an install bug that left single-NIC WAN gateways without DHCP after the 0.5.6 update, with regression tests. [Issue #36](https://github.com/UserJoo9/QuotaManager/issues/36) · [PR #37](https://github.com/UserJoo9/QuotaManager/pull/37)
-
-## 🛠️ Tech I work with
-
-| Area | Tools |
+| Project | What it is |
 |---|---|
-| **Backend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=ultralytics&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **Hardware** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [flutter-shopping-app](https://github.com/amr-elgharip2006/flutter-shopping-app) | Shopping app with sign-up and routing, [live demo](https://amr-elgharip2006.github.io/flutter-shopping-app/) |
+| [flutter-mini-product-catalog](https://github.com/amr-elgharip2006/flutter-mini-product-catalog) | Product catalog: state lifecycle and navigation |
+| [flutter-movie-library](https://github.com/amr-elgharip2006/flutter-movie-library) | Movie library with list and grid views and search |
+| [dl-pytorch-fundamentals-exercises](https://github.com/amr-elgharip2006/dl-pytorch-fundamentals-exercises) | All 10 PyTorch fundamentals exercises plus the challenge |
+| [OpenCV series](https://github.com/amr-elgharip2006/cv-section1-opencv-fundamentals) | Image basics → transforms and HSV masks → section 3 ([1](https://github.com/amr-elgharip2006/cv-section1-opencv-fundamentals) · [2](https://github.com/amr-elgharip2006/cv-section2-opencv-tasks) · [3](https://github.com/amr-elgharip2006/cv-section3-opencv)) |
 
-## 📫 Find me
+</details>
+
+---
+
+### 🛠️ Tech stack
 
 <p align="center">
-  <a href="https://linkedin.com/in/amr-elgharip2006"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square"></a>
-  <a href="https://x.com/amr_elgharip"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"></a>
-  <a href="https://www.youtube.com/channel/UCyCtVg7y4_Da6T5RO5zGRLQ"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
-  <a href="https://facebook.com/amr.elgharip2006"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white"></a>
-  <a href="https://instagram.com/amr.elgharip2006"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://tiktok.com/@amr.elgharip2006"><img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"></a>
-  <a href="mailto:amr@todiai.com"><img alt="Email" src="https://img.shields.io/badge/amr%40todiai.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,php,laravel&theme=dark" alt="Backend"><br><br>
+  <b>Frontend & mobile</b><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,flutter,dart&theme=dark" alt="Frontend and mobile"><br><br>
+  <b>AI & data</b><br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,postgres,prisma,redis,mysql&theme=dark" alt="AI and data"><br><br>
+  <b>Infra & hardware</b><br>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,docker,cloudflare,githubactions,raspberrypi,arduino,cpp&theme=dark" alt="Infra and hardware">
 </p>
 
-<p align="center"><sub>Made in Egypt 🇪🇬</sub></p>
+---
+
+### 📈 GitHub activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/stats-dark.svg">
+    <img width="49%" src="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/stats-light.svg" alt="GitHub stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=amr-elgharip2006&theme=github-dark-blue&hide_border=true&border_radius=10">
+    <img width="49%" src="https://streak-stats.demolab.com?user=amr-elgharip2006&hide_border=true&border_radius=10" alt="GitHub streak">
+  </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amr-elgharip2006&bg_color=0d1117&color=58a6ff&line=2563eb&point=06b6d4&area=true&area_color=2563eb&hide_border=true&radius=10" alt="Contribution graph">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/snake-dark.svg">
+    <img width="100%" src="https://raw.githubusercontent.com/amr-elgharip2006/amr-elgharip2006/output/snake-light.svg" alt="Contribution snake">
+  </picture>
+</p>
+
+---
+
+### 📫 Find me
+
+<p align="center">
+  <a href="https://linkedin.com/in/amr-elgharip2006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/amr_elgharip"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/channel/UCyCtVg7y4_Da6T5RO5zGRLQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://facebook.com/amr.elgharip2006"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://instagram.com/amr.elgharip2006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://tiktok.com/@amr.elgharip2006"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:06b6d4,100:2563eb&height=120&section=footer" width="100%" alt="">
