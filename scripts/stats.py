@@ -69,12 +69,13 @@ def stats_card(u: dict, t: dict) -> str:
     cc = u["contributionsCollection"]
     repos = u["repositories"]
     rows = [
-        ("Total contributions (year)", cc["contributionCalendar"]["totalContributions"]
-         + cc["restrictedContributionsCount"]),
-        ("Commits (year)", cc["totalCommitContributions"] + cc["restrictedContributionsCount"]),
+        # The calendar total already includes private contributions when the
+        # profile shows them, so it is not added on top again.
+        ("Total contributions (year)", cc["contributionCalendar"]["totalContributions"]),
+        ("Private contributions (year)", cc["restrictedContributionsCount"]),
+        ("Public commits (year)", cc["totalCommitContributions"]),
         ("Pull requests", u["pullRequests"]["totalCount"]),
-        ("Public repositories", repos["totalCount"]),
-        ("Stars earned", sum(r["stargazerCount"] for r in repos["nodes"])),
+                ("Stars earned", sum(r["stargazerCount"] for r in repos["nodes"])),
     ]
     body = ""
     for i, (label, value) in enumerate(rows):
